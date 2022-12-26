@@ -1,1 +1,3 @@
 # Python-Intro
+
+Under Construction, for complete codes and references. Coming soon...
